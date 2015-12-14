@@ -1,0 +1,28 @@
+name: DIgital Insights
+favicon: null
+layout_spectrum: 0.5079009649343789
+typography_spectrum: 0.7754060635343194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.13333033490926027
+  lightness: 0.3002109320368618
+  saturation: 0.6176597345620394
+  rhythmicContrast: 0.3156040960457176
+purpose: []
